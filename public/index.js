@@ -3,15 +3,12 @@ import Author1Img from './author1.png';
 import Author2Img from './author2.png';
 import Author3Img from './author3.png';
 import Author4Img from './author4.png';
-import Author5Img from './author5.png';
 
 // Otros
 import BackgroundImg from './background.png';
 import Client1Img from './client1.png';
 import Client2Img from './client2.png';
 import Client3Img from './client3.png';
-import Client4Img from './client4.png';
-import Client5Img from './client5.png';
 import Cover1Img from './cover1.png';
 import Cover2Img from './cover2.png';
 import Cover3Img from './cover3.png';
@@ -31,14 +28,11 @@ export {
   Author2Img,
   Author3Img,
   Author4Img,
-  Author5Img,
   // Otros
   BackgroundImg,
   Client1Img,
   Client2Img,
   Client3Img,
-  Client4Img,
-  Client5Img,
   Cover1Img,
   Cover2Img,
   Cover3Img,

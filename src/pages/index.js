@@ -12,13 +12,14 @@ import Head from 'next/head';
 export default function Home() {
   return (
     <div>
-      <main>
-        <Navbar />
-        <Hero />
-        <Popular />
-        <Latest />
-        <Suscribe />
-        <Testimonials />
+      <main className='bg-white'>
+        <div className='px-10'>
+          <Navbar />
+          <Popular />
+          <Latest />
+          <Suscribe />
+          <Testimonials />
+        </div>
         <Footer />
       </main>
     </div>

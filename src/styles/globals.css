@@ -2,6 +2,33 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --primary-color: #fbf4e2;
+  --secondary-color: #463c74;
+  --green-color: #b4d51e;
+  --orange-color: #ffc735;
+  --black-color: #000000;
+}
+* {
+  box-sizing: border-box;
+}
+html,
 body {
   font-family: 'Quicksand', sans-serif;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.button-bg-secondary {
+  background-color: var(--green-color);
+}
+.search-area {
+  background-color: #f8f7f5;
+  width: 500px;
+  padding: 5px 120px 5px 16px;
+  border-radius: 10px;
+}
+.search-button {
+  margin-left: -35px;
 }
