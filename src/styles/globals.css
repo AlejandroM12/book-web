@@ -119,3 +119,19 @@ a {
   margin-top: -60px;
   margin-bottom: 30px;
 }
+.footer {
+  background: var(--primary-color);
+}
+.footer p {
+  font-size: 18px;
+  color: #828282;
+}
+.menu p {
+  font-size: 18px;
+  color: var(--black-color);
+  font-weight: 600;
+}
+.menu a {
+  font-size: 16px;
+  color: #828282;
+}
