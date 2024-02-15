@@ -14,6 +14,9 @@ import Cover2Img from './cover2.png';
 import Cover3Img from './cover3.png';
 import Cover4Img from './cover4.png';
 import Cover5Img from './cover5.png';
+import Cover6Img from './cover6.png';
+import Cover7Img from './cover7.png';
+import Cover8Img from './cover8.png';
 import FacebookImg from './facebook.png';
 import HeroImg from './hero.png';
 import InstagramImg from './instagram.png';
@@ -38,6 +41,9 @@ export {
   Cover3Img,
   Cover4Img,
   Cover5Img,
+  Cover6Img,
+  Cover7Img,
+  Cover8Img,
   FacebookImg,
   HeroImg,
   InstagramImg,
